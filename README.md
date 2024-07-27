@@ -19,10 +19,17 @@ Visualization: The project includes a visualization of the predictions, which is
 Use of Popular Libraries: The code utilizes widely-used libraries like TensorFlow, scikit-learn, pandas, and matplotlib, which are essential in many AI roles.
 
 
-To run this project, you'll need to install the required libraries: numpy
-pandas
-yfinance
-scikit-learn
-tensorflow
-prophet
-matplotlib
+To run this project, you'll need to install the required libraries: 
+>numpy
+
+>pandas
+
+>yfinance
+
+>scikit-learn
+
+>tensorflow
+
+>prophet
+
+>matplotlib
