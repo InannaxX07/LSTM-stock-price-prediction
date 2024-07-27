@@ -20,16 +20,16 @@ Use of Popular Libraries: The code utilizes widely-used libraries like TensorFlo
 
 
 To run this project, you'll need to install the required libraries: 
->numpy
+</numpy
 
->pandas
+pandas
 
->yfinance
+yfinance
 
->scikit-learn
+scikit-learn
 
->tensorflow
+tensorflow
 
->prophet
+prophet
 
->matplotlib
+matplotlib/>
