@@ -1,6 +1,6 @@
 # LSTM-stock-price-prediction
 
-This project demonstrates several advanced concepts and techniques that are highly valued in the AI industry:
+This project demonstrates several advanced concepts and techniques:
 
 Time Series Forecasting: The project focuses on predicting stock prices, a common application in finance and algorithmic trading.
 
